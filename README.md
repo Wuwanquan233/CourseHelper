@@ -1,6 +1,6 @@
 # CourseHelper
 
-一个基于 Kotlin 的学习通辅助工具，专注于提供更原生的 Android 移动端体验
+一个基于 Kotlin 的学习通辅助工具，专注于提供更原生的 Android 移动端体验 
 
 ## 鸣谢
 
